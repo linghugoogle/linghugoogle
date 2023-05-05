@@ -12,7 +12,7 @@
 - hardware: quadrotor aircraft ✈; arduino (yyds) 😍
 - business: toC applications
 
-### Love life 🍎
+### Life 🍎
 - 🏃 running
 - 🚲 bicycle
 - 📚 reading
